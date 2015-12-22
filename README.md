@@ -1,9 +1,10 @@
 #The Coursework Theme
-> The theme of the coursework is to use the Engduino as a device to collect data that can be uploaded to a computer and
-displayed using a table or graph, or some other interesting way to display the data.
+> *The theme of the coursework is to use the Engduino as a device to collect data that can be uploaded to a computer and
+displayed using a table or graph, or some other interesting way to display the data.*
 
 # My approach to the coursework:
-*Engduino Copter*
+**Engduino Copter**
+
 A 2D endless side-scrolling helicopter game where the user moves a helicopter on the screen using an engduino-arduino controller. The objective of the game is to avoid crashing into the walls or the boundaries of the screen. This game was inspired by FlappyBirds.
 
 #How it works
