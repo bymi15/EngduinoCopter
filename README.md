@@ -1,6 +1,6 @@
 #The Coursework Theme
-"The theme of the coursework is to use the Engduino as a device to collect data that can be uploaded to a computer and
-displayed using a table or graph, or some other interesting way to display the data."
+> *The theme of the coursework is to use the Engduino as a device to collect data that can be uploaded to a computer and
+displayed using a table or graph, or some other interesting way to display the data.*
 
 # My approach to the coursework:
 ## Engduino Copter
